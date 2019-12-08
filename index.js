@@ -7,4 +7,6 @@ client.on('ready', () => {
   client.user.setActivity(`En route sur ${client.guilds.size} serveurs`) //Définit l'activitée du Bot.
 });
 
+//Ton code
+
 client.login(process.env.TOKEN); //Se connecter.
