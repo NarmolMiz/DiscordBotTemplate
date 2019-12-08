@@ -1,12 +1,12 @@
 {
-  "name": "kitsune-fox",
+  "name": "nom-du-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Description du bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Nom de l'auteur du Bot",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.5.1"
